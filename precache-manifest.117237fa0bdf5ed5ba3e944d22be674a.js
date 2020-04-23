@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e97a41d569c37faee1552f4000d9a142",
+    "revision": "596be87ca783f197c96e65ba2e78a56a",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.74189dbb.chunk.css"
   },
   {
-    "revision": "8dd5e526328c72b175d8",
-    "url": "/static/css/main.e689f811.chunk.css"
+    "revision": "39afe8e6026e6f42410e",
+    "url": "/static/css/main.0e70bee6.chunk.css"
   },
   {
     "revision": "66e9fe1e4f8ac3dd1bcd",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.b1589a9d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8dd5e526328c72b175d8",
-    "url": "/static/js/main.bb32735b.chunk.js"
+    "revision": "39afe8e6026e6f42410e",
+    "url": "/static/js/main.03d24597.chunk.js"
   },
   {
     "revision": "d83b0bfa60d063e14f96",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/EddieEstevez.3ed14cd1.png"
   },
   {
-    "revision": "51ef05ee33953c07ff4fd72a558b91d6",
-    "url": "/static/media/HomePageBackground.51ef05ee.png"
+    "revision": "0b959050dc4ed90051eb31a24d5391b6",
+    "url": "/static/media/HomePageBackground.0b959050.png"
   },
   {
     "revision": "46defb96716967d6406b163caf62579b",
