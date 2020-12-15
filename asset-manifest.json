@@ -1,34 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.817852b8.chunk.css",
-    "main.js": "/static/js/main.d64e1b02.chunk.js",
-    "main.js.map": "/static/js/main.d64e1b02.chunk.js.map",
+    "main.css": "/static/css/main.8e158f01.chunk.css",
+    "main.js": "/static/js/main.dd6b28fc.chunk.js",
+    "main.js.map": "/static/js/main.dd6b28fc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.656ac742.js",
     "runtime-main.js.map": "/static/js/runtime-main.656ac742.js.map",
     "static/css/2.74189dbb.chunk.css": "/static/css/2.74189dbb.chunk.css",
-    "static/js/2.b6a75280.chunk.js": "/static/js/2.b6a75280.chunk.js",
-    "static/js/2.b6a75280.chunk.js.map": "/static/js/2.b6a75280.chunk.js.map",
+    "static/js/2.9d2e93d6.chunk.js": "/static/js/2.9d2e93d6.chunk.js",
+    "static/js/2.9d2e93d6.chunk.js.map": "/static/js/2.9d2e93d6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cd72255bc9566922c14c07b3b9c40812.js": "/precache-manifest.cd72255bc9566922c14c07b3b9c40812.js",
+    "precache-manifest.16ec9b79bfbc96cb6f56e1b9ae692ab5.js": "/precache-manifest.16ec9b79bfbc96cb6f56e1b9ae692ab5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.74189dbb.chunk.css.map": "/static/css/2.74189dbb.chunk.css.map",
-    "static/css/main.817852b8.chunk.css.map": "/static/css/main.817852b8.chunk.css.map",
-    "static/js/2.b6a75280.chunk.js.LICENSE.txt": "/static/js/2.b6a75280.chunk.js.LICENSE.txt",
-    "static/media/Digital.png": "/static/media/Digital.1b8e170e.png",
-    "static/media/EddieEstevez.png": "/static/media/EddieEstevez.3ed14cd1.png",
-    "static/media/HomePageBackground.png": "/static/media/HomePageBackground.292df2f0.png",
-    "static/media/Software.png": "/static/media/Software.46defb96.png",
-    "static/media/Video.png": "/static/media/Video.ac73dcfb.png",
-    "static/media/beepBoop.mp3": "/static/media/beepBoop.2ef78451.mp3",
-    "static/media/culvers.jpg": "/static/media/culvers.62fd7ad0.jpg",
+    "static/css/main.8e158f01.chunk.css.map": "/static/css/main.8e158f01.chunk.css.map",
+    "static/js/2.9d2e93d6.chunk.js.LICENSE.txt": "/static/js/2.9d2e93d6.chunk.js.LICENSE.txt",
+    "static/media/EddieEstevez.jpg": "/static/media/EddieEstevez.9d00d858.jpg",
+    "static/media/blackLineRect.svg": "/static/media/blackLineRect.01d3a814.svg",
     "static/media/lis500.png": "/static/media/lis500.c0d3e7f9.png",
-    "static/media/reactPortfolio.png": "/static/media/reactPortfolio.3351c4ef.png"
+    "static/media/reactPortfolio.png": "/static/media/reactPortfolio.3351c4ef.png",
+    "static/media/workoutAppScreens.png": "/static/media/workoutAppScreens.325d1511.png"
   },
   "entrypoints": [
     "static/js/runtime-main.656ac742.js",
     "static/css/2.74189dbb.chunk.css",
-    "static/js/2.b6a75280.chunk.js",
-    "static/css/main.817852b8.chunk.css",
-    "static/js/main.d64e1b02.chunk.js"
+    "static/js/2.9d2e93d6.chunk.js",
+    "static/css/main.8e158f01.chunk.css",
+    "static/js/main.dd6b28fc.chunk.js"
   ]
 }
